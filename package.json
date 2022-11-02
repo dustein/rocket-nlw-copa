@@ -1,0 +1,23 @@
+{
+  "name": "rocket-nlw-copa",
+  "version": "1.0.0",
+  "description": "Projeto Rocketseat NLW - Bolao da Copa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustein/rocket-nlw-copa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustein/rocket-nlw-copa/issues"
+  },
+  "homepage": "https://github.com/dustein/rocket-nlw-copa#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
