@@ -4,7 +4,7 @@
   "description": "Projeto Rocketseat NLW - Bolao da Copa",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "tsx watch src/server.ts"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/dustein/rocket-nlw-copa#readme",
   "devDependencies": {
+    "tsx": "^3.11.0",
     "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "fastify": "^4.9.2"
   }
 }
