@@ -18,13 +18,15 @@
   },
   "homepage": "https://github.com/dustein/rocket-nlw-copa#readme",
   "devDependencies": {
-    "prisma": "^4.5.0",
+    "@mermaid-js/mermaid-cli": "^9.2.2",
+    "prisma": "^4.6.1",
     "prisma-erd-generator": "^1.2.2",
     "tsx": "^3.11.0",
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "@prisma/client": "^4.5.0",
+    "@fastify/cors": "^8.2.0",
+    "@prisma/client": "^4.6.1",
     "fastify": "^4.9.2"
   }
 }
